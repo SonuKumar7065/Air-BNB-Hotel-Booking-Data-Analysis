@@ -1,0 +1,9 @@
+Q1: Room types distribution saved (outputs/q1_room_type_counts.png).
+Q2: Neighbourhood group counts saved (outputs/q2_neighbourhood_group_listings.png).
+Q3: Top neighbourhoods by average price saved (outputs/q3_top10_neighbourhoods_mean_price.png).
+Q4: Construction year vs price plot saved (outputs/q4_construction_vs_price.png).
+Q5: Top hosts table saved to notebook view.
+Q6: Host verification vs review rate plot saved (outputs/q6_host_verified_vs_reviews.png).
+Q7: Price vs service fee scatter saved (outputs/q7_price_vs_service_fee.png).
+Q8: Review-rate by neighbourhood & room type saved (outputs/q8_review_by_neighbourhood_group.png and q8_review_by_room_type.png).
+Q9: Availability vs host listings plots saved (outputs/q9_*.png).
