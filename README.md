@@ -46,30 +46,11 @@ By completing this project, the following objectives were achieved:
 
 ---
 
-## ⚙️ Project Structure  
-
-Airbnb_Hotel_Booking_Analysis/
-│
-├── Airbnb_Open_Data.xlsx
-├── Airbnb_Analysis.ipynb
-├── README.md
-├── requirements.txt
-│
-├── dataset/
-│ └── model_performance_summary.csv
-│ └── 1730285881-Airbnb_Open_Data.xlsx
-│
-└── outputs/
-├── q1_room_type_counts.png
-├── q2_neighborhood_listings.png
-├── q3_avg_price_by_area.png
-├── q4_construction_year_vs_price.png
-├── q5_top10_hosts.png
-├── q6_verified_host_ratings.png
-├── q7_price_service_fee_corr.png
-├── q8_review_distribution.png
-├── q9_host_availability.png
-└── final_insights_questions.txt
+## 📂 Repository Structure
+- `dataset/` → contains model_performance_summary.csv and 1730285881-Airbnb_Open_Data.xlsx dataset
+- `outputs/` → contains output images  
+- `README.md` → project documentation
+- `Air_BNB_Hotel_Booking_Data_Analysis.ipynb` → colab notebook
 
 ---
 
@@ -89,28 +70,34 @@ Airbnb_Hotel_Booking_Analysis/
 ![Room Types](outputs/q1_room_type_counts.png)
 
 ### 2️⃣ Listings by Neighborhood Group  
-![Neighborhood Listings](outputs/q2_neighborhood_listings.png)
+![Neighborhood Listings](outputs/q2_neighborhood_group_listings.png)
 
 ### 3️⃣ Average Price by Neighborhood  
-![Average Price](outputs/q3_avg_price_by_area.png)
+![Average Price](outputs/q3_top10_neighbourhoods_mean_price.png)
 
 ### 4️⃣ Construction Year vs Price  
-![Construction vs Price](outputs/q4_construction_year_vs_price.png)
+![Construction vs Price](outputs/q4_construction_vs_price.png)
 
 ### 5️⃣ Top 10 Hosts  
-![Top Hosts](outputs/q5_top10_hosts.png)
+![Top Hosts](outputs/q5_top10_hosts_listings.png)
 
 ### 6️⃣ Verified Hosts vs Ratings  
-![Verified Ratings](outputs/q6_verified_host_ratings.png)
+![Verified Ratings](outputs/q6_host_verified_vs_reviews.png)
 
 ### 7️⃣ Price vs Service Fee Correlation  
-![Price Service Fee](outputs/q7_price_service_fee_corr.png)
+![Price Service Fee](outputs/q7_price_vs_service_fee.png)
 
-### 8️⃣ Review Rating Distribution  
-![Review Ratings](outputs/q8_review_distribution.png)
+### 8️⃣ Review by Neighbourhood Group  
+![Review Ratings](outputs/q8_review_by_neighbourhood_group.png)
 
-### 9️⃣ Host Availability Pattern  
-![Host Availability](outputs/q9_host_availability.png)
+### 8️⃣ Review by Room Type 
+![Review Ratings](outputs/q8_review_by_room_type.png)
+
+### 9️⃣ Host Availability by Listings
+![Host Availability](outputs/q9_availability_by_host_listings.png)
+
+### 9️⃣ Host Listings VS Availability
+![Host Availability](outputs/q9_host_listings_vs_availability.png)
 
 ---
 
@@ -150,4 +137,5 @@ Through visual analytics and predictive modeling, the project identified key dri
 
 **Sonu Kumar**  
 VOIS for Tech Program on Conversational Data Analytics with LLMs
+
 GitHub: [SonuKumar7065](https://github.com/SonuKumar7065)  
