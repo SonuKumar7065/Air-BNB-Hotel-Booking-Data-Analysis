@@ -70,7 +70,7 @@ By completing this project, the following objectives were achieved:
 ![Room Types](outputs/q1_room_type_counts.png)
 
 ### 2️⃣ Listings by Neighborhood Group  
-![Neighborhood Listings](outputs/q2_neighborhood_group_listings.png)
+![Neighborhood Listings](outputs/q2_neighbourhood_group_listings.png)
 
 ### 3️⃣ Average Price by Neighborhood  
 ![Average Price](outputs/q3_top10_neighbourhoods_mean_price.png)
