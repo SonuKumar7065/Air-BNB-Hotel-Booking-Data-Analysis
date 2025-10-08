@@ -133,6 +133,42 @@ Through visual analytics and predictive modeling, the project identified key dri
 
 ---
 
+# 🏨 Airbnb Hotel Booking Data Analysis & Price Prediction App
+
+This project analyzes Airbnb data and predicts hotel prices using machine learning.  
+Built with **Streamlit**, **Pandas**, **Seaborn**, and **Scikit-Learn**.
+
+---
+
+## 🚀 Features
+- Interactive Streamlit dashboard with charts and filters  
+- ML model for **price prediction**  
+- Visual analytics: heatmaps, trends, distributions  
+- Clean & modern UI for demo or internship submission  
+
+---
+
+## 🧩 Tech Stack
+**Languages:** Python  
+**Frameworks:** Streamlit, Scikit-Learn  
+**Visualization:** Matplotlib, Seaborn  
+**Data:** Airbnb Open Dataset (Excel)  
+
+---
+
+## ⚙️ Setup & Run
+
+- ```bash
+  # 1️⃣ Create & activate virtual environment
+  python -m venv venv
+  venv\Scripts\activate
+  
+  # 2️⃣ Install dependencies
+  pip install -r requirements.txt
+
+  # 3️⃣ Run the app
+  streamlit run app.py
+
 ## 👨‍💻 Author  
 
 **Sonu Kumar**  
