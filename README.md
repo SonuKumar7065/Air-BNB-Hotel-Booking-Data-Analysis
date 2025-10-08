@@ -143,8 +143,17 @@ Built with **Streamlit**, **Pandas**, **Seaborn**, and **Scikit-Learn**.
 ## 🚀 Features
 - Interactive Streamlit dashboard with charts and filters  
 - ML model for **price prediction**  
-- Visual analytics: heatmaps, trends, distributions  
-- Clean & modern UI for demo or internship submission  
+- Visual analytics: heatmaps, trends, distributions
+
+## 📊 Output Highlights
+- Correlation Heatmap of features
+- Price Distribution across locations
+- Top Factors influencing price
+
+## 🧠 ML Model
+- Algorithm: RandomForestRegressor
+- Target: Price
+- Performance Metrics: MAE, RMSE, R²
 
 ---
 
